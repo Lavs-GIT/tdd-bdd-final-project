@@ -14,6 +14,7 @@
 # limitations under the License.
 ######################################################################
 
+##test
 # spell: ignore Rofrano jsonify restx dbname
 """
 Product Store Service with UI
